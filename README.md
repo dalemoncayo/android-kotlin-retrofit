@@ -58,7 +58,7 @@ Example input:
 
 ## Usage
 
-1. Clone the repository from [GitHub](https://github.com/your-username/your-repository).
+1. Clone the repository from [GitHub](https://github.com/dalemncy/android-kotlin-retrofit).
 
 2. Open the project in Android Studio.
 
